@@ -3,9 +3,9 @@
   "displayName": "Light Modern 2026 (AI Mix)",
   "description": "A light VS Code theme combining the Light Modern workbench with Light 2026 editor colors. Combined with AI assistance.",
   "version": "1.0.0",
-  "publisher": "explo",
+  "publisher": "fonetel",
   "author": {
-    "name": "explo"
+    "name": "fonetel"
   },
   "license": "SEE LICENSE IN LICENSE.txt",
   "engines": {
