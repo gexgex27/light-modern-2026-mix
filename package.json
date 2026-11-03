@@ -1,0 +1,34 @@
+{
+  "name": "light-modern-2026-ai-mix",
+  "displayName": "Light Modern 2026 (AI Mix)",
+  "description": "A light VS Code theme combining the Light Modern workbench with Light 2026 editor colors. Combined with AI assistance.",
+  "version": "1.0.0",
+  "publisher": "explo",
+  "author": {
+    "name": "explo"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "engines": {
+    "vscode": "^1.143.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "light theme",
+    "light modern",
+    "light 2026",
+    "color theme",
+    "ai"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "Light Modern 2026 (AI Mix)",
+        "label": "Light Modern 2026 (AI Mix)",
+        "uiTheme": "vs",
+        "path": "./themes/light-modern-2026-ai-mix-color-theme.json"
+      }
+    ]
+  }
+}
